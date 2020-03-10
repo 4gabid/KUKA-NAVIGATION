@@ -1,0 +1,2 @@
+# KUKA-NAVIGATION
+Repository created with the outcomes of the 2 months internship at CIIRC- CTU in Prague in the program UNIGOU. This repository has a protoype of an application that calculates Inverse Kinematics with IKPy and the library created to detect collisions between the robot and squared objects in the space. Here, there are the codes, manual (with some lessons learned about simulation of KUKA robots) and some interesting articles found on the way.
